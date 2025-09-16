@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
+<title id="title">Placeholder banner επιδότησης</title>
+<desc id="desc">Ορθογώνιο banner ως θέση για το επίσημο γραφιστικό του προγράμματος</desc>
+<rect width="1200" height="160" fill="#f2f2f2"/>
+<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#0d47a1">Τοποθετήστε εδώ το επίσημο banner του προγράμματος</text>
+</svg>

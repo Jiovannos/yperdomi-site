@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+<title id="title">Ενδεικτική εικόνα εργοταξίου</title>
+<desc id="desc">Σχηματική απεικόνιση εργοταξίου με γερανό και εργαζόμενους</desc>
+<rect width="800" height="500" fill="#e8eef9"/>
+<g>
+<rect x="60" y="380" width="680" height="40" fill="#c8d0db"/>
+<rect x="120" y="280" width="240" height="100" fill="#9bb0c8"/>
+<rect x="380" y="300" width="140" height="80" fill="#b7c6d8"/>
+<line x1="600" y1="100" x2="500" y2="300" stroke="#0d47a1" stroke-width="6"/>
+<line x1="600" y1="100" x2="720" y2="110" stroke="#0d47a1" stroke-width="6"/>
+<circle cx="600" cy="100" r="18" fill="#0d47a1"/>
+</g>
+</svg>
